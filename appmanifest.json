@@ -1,7 +1,7 @@
 {
 	"name": "NWM CPR draft 2",
 	"short_name": "NWM CPR draft 2",
-	"description": "",
+	"description": "CPR practice",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
